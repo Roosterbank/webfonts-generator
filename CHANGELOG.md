@@ -1,3 +1,7 @@
+0.5.0
+* Updated dependencies
+* Changed deprecated Buffer calls
+
 0.4.0
 
 * Add woff2 support.
